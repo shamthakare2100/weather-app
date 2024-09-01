@@ -1,2 +1,3 @@
-# weather-app
- i create weather app website using a html and css 
+# Weather-App
+ I created small project of weather app .
+ In that is used HTML , CSS.
